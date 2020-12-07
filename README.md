@@ -7,6 +7,7 @@
 ![valorant_brimstone_4k_hd](https://user-images.githubusercontent.com/75221857/101377434-a5897200-3866-11eb-837f-18c6aaabc2b0.jpg)
 
 * Cypher
+![valorant-cypher-uhdpaper com-4K-7 2031-wp thumbnail](https://user-images.githubusercontent.com/75221857/101377770-1e88c980-3867-11eb-8887-2cada28ec20a.jpg)
 
 * Jett
 
