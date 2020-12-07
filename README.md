@@ -31,7 +31,10 @@
 ![OIP (4)](https://user-images.githubusercontent.com/75221857/101380253-1e3dfd80-386a-11eb-8ee7-ea3d39452d94.jpeg)
 
 * Skye
+![download (1)](https://user-images.githubusercontent.com/75221857/101380489-6a893d80-386a-11eb-91f1-b0c2c17097c0.jpeg)
 
 * Sova
+![download (2)](https://user-images.githubusercontent.com/75221857/101380560-8391ee80-386a-11eb-8154-78ff2dfa950c.jpeg)
 
 * Viper
+![download (3)](https://user-images.githubusercontent.com/75221857/101380751-c0f67c00-386a-11eb-82ae-e4e1d61933f6.jpeg)
