@@ -38,3 +38,15 @@
 
 * Viper
 ![download (3)](https://user-images.githubusercontent.com/75221857/101380751-c0f67c00-386a-11eb-82ae-e4e1d61933f6.jpeg)
+
+# Guns
+|Sidearm|SMG    |Shotguns|Rifles  |Snipers |Heavy(LMG)|
+|-------|-------|--------|--------|--------|----------|
+|Classic|Stinger|Bucky   |Bulldog |Marshal |Ares      |
+|Shorty |Spectre|Judge   |Guardian|Operator|Odin      |
+|Frenzy |       |        |Phantom |        |          |
+|Ghost  |       |        |Vandal  |        |          |
+|Sheriff|       |        |        |        |          |
+
+
+![6fc36a80-857f-11ea-9523-7f6edf23093e-Valorant-Guns](https://user-images.githubusercontent.com/75221857/101382656-116ed900-386d-11eb-8093-fac3a9e1dd2f.png)
