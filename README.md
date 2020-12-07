@@ -16,8 +16,10 @@
 ![Valorant-Killjoy](https://user-images.githubusercontent.com/75221857/101379211-e1253b80-3868-11eb-9f9a-fbc5a2985e8f.jpg)
 
 * Omen
+![Valorant-Killjoy](https://user-images.githubusercontent.com/75221857/101379211-e1253b80-3868-11eb-9f9a-fbc5a2985e8f.jpg)
 
 * Phoenix
+![download](https://user-images.githubusercontent.com/75221857/101379673-5f81dd80-3869-11eb-8aaf-dab1e574fa99.jpeg)
 
 * Raze
 
