@@ -39,7 +39,7 @@
 * Viper
 ![download (3)](https://user-images.githubusercontent.com/75221857/101380751-c0f67c00-386a-11eb-82ae-e4e1d61933f6.jpeg)
 
-# Guns
+# __Guns__
 |Sidearm|SMG    |Shotguns|Rifles  |Snipers |Heavy(LMG)|
 |-------|-------|--------|--------|--------|----------|
 |Classic|Stinger|Bucky   |Bulldog |Marshal |Ares      |
@@ -50,3 +50,24 @@
 
 
 ![6fc36a80-857f-11ea-9523-7f6edf23093e-Valorant-Guns](https://user-images.githubusercontent.com/75221857/101382656-116ed900-386d-11eb-8093-fac3a9e1dd2f.png)
+
+# __Maps__
+1. _Ascent_
+![Loading_Screen_Ascent](https://user-images.githubusercontent.com/75221857/101383866-8db5ec00-386e-11eb-9d6d-e500fc027084.png)
+![Ascent-B](https://user-images.githubusercontent.com/75221857/101383924-a1615280-386e-11eb-85bf-0879f49256ab.png)
+
+1. _Bind_
+![Loading_Screen_Bind](https://user-images.githubusercontent.com/75221857/101384049-c786f280-386e-11eb-90aa-30053a519a4d.png)
+![Bind_mini-map_2](https://user-images.githubusercontent.com/75221857/101384122-dec5e000-386e-11eb-8e85-c5b8ffc7feb7.png)
+
+1. _Haven_
+![Loading_Screen_Haven](https://user-images.githubusercontent.com/75221857/101384365-32382e00-386f-11eb-9ed5-1225533cbe16.png)
+![Haven_mini-map](https://user-images.githubusercontent.com/75221857/101384377-36fce200-386f-11eb-832b-5f05dc2df5fb.png)
+
+1. _Icebox_
+![Loading_Icebox](https://user-images.githubusercontent.com/75221857/101384480-5a279180-386f-11eb-86d9-5d5522d0143d.png)
+![TX_Map_Port_FogOfWar](https://user-images.githubusercontent.com/75221857/101384486-5bf15500-386f-11eb-9c52-82e7ba2e17db.png)
+
+1. _Split_
+![Loading_Screen_Split](https://user-images.githubusercontent.com/75221857/101384563-7297ac00-386f-11eb-9cee-71d5e351d16f.png)
+![th](https://user-images.githubusercontent.com/75221857/101384754-b5598400-386f-11eb-8fc0-1501dcefebb5.jpeg)
